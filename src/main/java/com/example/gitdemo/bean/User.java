@@ -3,6 +3,7 @@ package com.example.gitdemo.bean;
 public class User {
     private int age;
     private String name;
+    private String add;
 
     public int getAge() {
         return age;
